@@ -18,6 +18,10 @@ Gemini API: Used for the Large Language Model capabilities, providing answers to
 
 JavaScript (ES6+): For application logic and asynchronous operations.
 
+
+<img width="855" alt="Screenshot 2025-06-02 at 8 35 16 AM" src="https://github.com/user-attachments/assets/4897f93d-e2e1-47f4-afd5-31872f46d5d6" />
+
+
 ## 🛠️ Setup and Installation
 Follow these steps to get CryptoVerse up and running on your local machine:
 
