@@ -1,4 +1,4 @@
-CryptoVerse: LLM-Powered Crypto Assistant with Simulated Web3 Interaction
+**CryptoVerse: LLM-Powered Crypto Assistant with Simulated Web3 Interaction**
 CryptoVerse is a React application designed to demonstrate the potential of integrating Large Language Models (LLMs) with conceptual Web3 functionalities to provide crypto-related information and simulate blockchain interactions.
 
 🌟 Features
