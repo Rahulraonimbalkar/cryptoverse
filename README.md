@@ -1,15 +1,15 @@
-**CryptoVerse: LLM-Powered Crypto Assistant with Simulated Web3 Interaction**
+##CryptoVerse: LLM-Powered Crypto Assistant with Simulated Web3 Interaction
 
 CryptoVerse is a React application designed to demonstrate the potential of integrating Large Language Models (LLMs) with conceptual Web3 functionalities to provide crypto-related information and simulate blockchain interactions.
 
-🌟 Features
+#🌟 Features
 LLM Crypto Assistant: Ask questions about blockchain, DeFi, NFTs, specific cryptocurrencies, and other crypto-related topics. The application uses the Gemini API to generate intelligent responses.
 
 Simulated Web3 Wallet Connection: Connect a mock wallet to simulate interaction with a decentralized environment.
 
 Simulated Smart Contract Interaction: Enter a mock contract address, function name, and arguments to simulate calling a smart contract function and receiving a mock result. This illustrates how real Web3 interactions would be structured.
 
-🚀 Technologies Used
+#🚀 Technologies Used
 React: A JavaScript library for building user interfaces.
 
 Tailwind CSS: A utility-first CSS framework for rapid UI development and responsive design.
@@ -18,7 +18,7 @@ Gemini API: Used for the Large Language Model capabilities, providing answers to
 
 JavaScript (ES6+): For application logic and asynchronous operations.
 
-🛠️ Setup and Installation
+#🛠️ Setup and Installation
 Follow these steps to get CryptoVerse up and running on your local machine:
 
 Clone the Repository (or create a new React app):
